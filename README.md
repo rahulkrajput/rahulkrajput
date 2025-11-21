@@ -1,8 +1,10 @@
 
 
-# Hi, I'm Rahul 👋
+ #  Hi 👋, I'm Rahul **—** DevOps Engineer
+ 
+<img width="2000" height="2000" alt="Image" src="https://github.com/user-attachments/assets/69bfca81-0940-40e8-aefd-09cf03713a13" />
 
-![Banner](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1500&q=80)
+
 
 ## About Me
 I am a Aspiring DevOps Engineer with skills in Azure Cloud, Docker, Kubernetes, Terraform, and CI/CD automation. I am building scalable and automated infrastructure and deployment pipelines using modern DevOps tools and practices. I'm a learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve problems ✨. Apart from that, I also love to guide and mentor newbies 👨🏻‍💻.
