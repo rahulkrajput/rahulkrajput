@@ -14,10 +14,13 @@ I am a Aspiring DevOps Engineer with skills in Azure Cloud, Docker, Kubernetes, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://terraform.io/assets/images/logo-hashicorp-terraform.svg" alt="Terraform" width="40" height="40"/>
+  
+  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/79f9f662-ec95-4814-8c90-95896da996d4" />
   <img src="https://azure.microsoft.com/svghandler/azure-devops/?width=48&height=48" alt="Azure DevOps" width="40" height="40"/>
-  <img src="https://argoproj.github.io/argo-cd/assets/images/argo-cd-icon.png" alt="ArgoCD" width="40" height="40"/>
-  <img src="https://kustomize.io/images/logo.png" alt="Kustomize" width="40" height="40"/>
+  
+  
+ <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/637b881c-5e07-4b21-b54d-135ab9cc51d8" />
+  <img width="46" height="46" alt="Image" src="https://github.com/user-attachments/assets/4ded08ef-b9aa-4cbb-ad8f-3e49d3dc762a" />
 </div>
 
 ## What I Do
@@ -27,8 +30,7 @@ I am a Aspiring DevOps Engineer with skills in Azure Cloud, Docker, Kubernetes, 
 - Implement GitOps workflows to improve deployment consistency and auditability.
 - Collaborate on cloud native projects and open-source DevOps tooling.
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
