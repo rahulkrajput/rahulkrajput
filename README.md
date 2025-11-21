@@ -26,11 +26,11 @@ I am a Aspiring DevOps Engineer with skills in Azure Cloud, Docker, Kubernetes, 
 </div>
 
 ## What I Do
-- Build and manage **CI/CD pipelines** using Azure DevOps and ArgoCD for automated, reliable deployments.
-- Containerize applications with **Docker** and orchestrate with **Azure Kubernetes Service (AKS)** leveraging **Kustomize**.
+- Build and manage **CI/CD pipelines** using Azure DevOps and ArgoCD for automated, reliable deployments leveraging **Kustomize**.
+- Containerize applications with **Docker** and orchestrate with **Azure Kubernetes Service (AKS)**.
 - Manage cloud infrastructure with **Terraform** on Azure ensuring scalability and repeatability.
 - Implement GitOps workflows to improve deployment consistency and auditability.
-- Collaborate on cloud native projects and open-source DevOps tooling.
+  
 
 
 
