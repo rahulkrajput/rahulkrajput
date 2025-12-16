@@ -17,12 +17,12 @@ I am a Aspiring DevOps Engineer with skills in Azure Cloud, Docker, Kubernetes, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
   
-  <img width="40" height="40" alt="Image" src="https://i.imghippo.com/files/MREL2762RY.png"/>
+  <img width="40" height="40" alt="Terraform" src="https://i.imghippo.com/files/MREL2762RY.png" alt="Terraform"/>
   <img src="https://azure.microsoft.com/svghandler/azure-devops/?width=48&height=48" alt="Azure DevOps" width="40" height="40"/>
   
   
- <img width="50" height="50" alt="Image" src="https://i.imghippo.com/files/yex3907pQ.png" />
-  <img width="46" height="46" alt="Image" src="https://github.com/user-attachments/assets/4ded08ef-b9aa-4cbb-ad8f-3e49d3dc762a" />
+ <img width="50" height="50" alt="ArgoCD" src="https://i.imghippo.com/files/yex3907pQ.png" alt="ArgoCD" />
+  <img width="46" height="46" alt="Kustomize" src="https://i.imghippo.com/files/woga7863Ymw.png" alt="Kustomize" />
 </div>
 
 ## What I Do
