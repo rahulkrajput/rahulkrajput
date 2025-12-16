@@ -21,7 +21,7 @@ I am a Aspiring DevOps Engineer with skills in Azure Cloud, Docker, Kubernetes, 
   <img src="https://azure.microsoft.com/svghandler/azure-devops/?width=48&height=48" alt="Azure DevOps" width="40" height="40"/>
   
   
- <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/637b881c-5e07-4b21-b54d-135ab9cc51d8" />
+ <img width="50" height="50" alt="Image" src="https://i.imghippo.com/files/yex3907pQ.png" />
   <img width="46" height="46" alt="Image" src="https://github.com/user-attachments/assets/4ded08ef-b9aa-4cbb-ad8f-3e49d3dc762a" />
 </div>
 
