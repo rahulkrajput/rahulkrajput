@@ -2,8 +2,8 @@
 
  #  Hi 👋, I'm Rahul **—** DevOps Engineer
  
-<img width="2000" height="2000" alt="Image" src="https://github.com/user-attachments/assets/69bfca81-0940-40e8-aefd-09cf03713a13" />
-
+<img width="2000" height="2000" alt="Image" src="https://drive.google.com/file/d/1dw9Ws5yMdkWmyy3w7EN7eeyM0--eXRCi/view?usp=sharing" />
+#https://github.com/user-attachments/assets/69bfca81-0940-40e8-aefd-09cf03713a13
 
 
 ## About Me
